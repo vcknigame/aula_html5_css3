@@ -1,0 +1,23 @@
+body {
+    background:rgb(150, 237, 240);
+    margin-left: 100px;
+    margin-right: 30px;
+}
+
+header {margin-top: 50px;
+
+}
+
+h1 {
+    color: green;
+    margin-left: 500px;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.img_padrao {
+    margin-botton: 20px;
+}
+
